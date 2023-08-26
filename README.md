@@ -1,4 +1,4 @@
-#A simple ToDo List webapp created using **JavaScript, HTML & CSS**.
+# A simple ToDo List webapp created using **JavaScript, HTML & CSS**.
 
 ## APIs Used
 1.	**UnSplash: https://source.unsplash.com/**
